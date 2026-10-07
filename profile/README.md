@@ -1,14 +1,52 @@
-<p align="center"> <a href="https://volunteertech.aklilumandefro.com" target="_blank"><img src="https://i.imgur.com/OnxEsoC.png" alt="Logo Volunteer Tech®"> </a></p>
+<p align="center"> <a href="https://michu-ai.com" target="_blank"><img src="https://i.imgur.com/rNqrYY1.png" alt="Logo Volunteer Tech®"> </a></p>
 
-# 📚 About Volunteer Tech®
 
-Volunteer Tech® is a professional training and coaching non-profit institution founded by a young software engineer and researcher, [Aklilu Mandefro](https://aklilumandefro.com) in May 2017 with the goal of helping humanity move forward and making the world a better place. We are here to inspire and empower the younger generation to be future-proof through our free-of-charge professional skills training in four areas: coding, research, personal development, and leadership in a way that makes a difference in their lives and the world around them. Despite being originally based in two cities, Gondar and Bahir Dar, in Ethiopia, our mission is to reach out to a wider community across Africa.
+# 🤖 About Michu AI
 
-​We focus on creating future leaders by inspiring and empowering youth to help them create an impact on thier community through the use of technology and research. We inspire them to build a better future not only for themselves but also for the rest of the world.
+**AI systems are getting better at passing benchmarks. But what happens when they fail in the real world?**
 
-## 💻 Work with Us
+A harmful answer.  
+A misleading recommendation.  
+A biased decision.  
+An unexpected action.
 
-If you want to work with us as a volunteer and leave your mark on empowering others through technology and research, Kindly [Join Us](https://docs.google.com/forms/d/e/1FAIpQLSczN9QnA7cin-X9xVgh7O2IKaH-v0l_tIKymfP1pcgatQwIdw/viewform?usp=sharing).
+These failures happen in real interactions with AI systems, but many are never systematically captured, connected, or learned from.
 
-To get to know us better, head over to our [official website](https://volunteertech.aklilumandefro.com).
+**Michu AI is building the missing accountability layer for AI.**
 
+We are developing an open, research-driven infrastructure that turns real-world AI failure experiences into structured accountability intelligence.
+
+## 🔎 From AI Failures to Evidence
+
+Michu AI is designed to help capture and understand what conventional evaluations may miss after AI systems reach real users and environments.
+
+
+- **Report** — Capture real-world AI failures and unexpected behavior
+- **Understand** — Structure and classify what happened
+- **Connect** — Link related failures and identify recurring patterns
+- **Detect** — Surface signals and emerging risks
+- **Learn** — Create a continuous feedback loop between AI users and AI builders
+
+
+The goal is not simply to collect complaints.
+
+It is to make scattered experiences **observable, analyzable, and useful for research, evaluation, safety, and governance.**
+
+##  💡 Why It Matters
+
+AI evaluation often asks:
+
+> *How capable is this system?*
+
+Michu AI is interested in another question:
+
+> *What is this system getting wrong in the real world—and what can we learn from it?*
+
+We believe real-world AI behavior can provide an important source of evidence for understanding how AI systems behave beyond controlled evaluations.
+
+Michu AI is currently in **active development**, with ongoing work on the technical and research foundations needed to make real-world AI failure data useful and reliable.
+
+**Capturing what AI gets wrong. Learning from it. Helping build better AI.**
+
+## 🌍 Learn More
+Learn more about Michu AI on our [official website](https://michu-ai.com).
