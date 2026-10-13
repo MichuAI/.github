@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://michu-ai.com" target="_blank"><img src="https://i.imgur.com/rNqrYY1.png" alt="Logo Volunteer Tech®"> </a></p>
+<p align="center"> <a href="https://michu-ai.com" target="_blank"><img src="https://i.imgur.com/zef6KaX.png" alt="Logo Volunteer Tech®"> </a></p>
 
 
 # 🤖 About Michu AI
